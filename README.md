@@ -76,3 +76,4 @@ This dashboard helps improve business performance by:
 
 This dashboard provides a comprehensive view of coffee shop operations, helping businesses optimize sales strategies, improve customer experience, and maximize profitability through data-driven insights.# cofee-shop-sales-dashboard
 
+![Dashboard priview]()
