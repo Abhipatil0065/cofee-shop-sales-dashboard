@@ -32,29 +32,39 @@ Total Footfall (17,314)
 Avg Bill per Person (4.72)
 Avg Orders per Person (0.17)
 👉 Used to give a quick snapshot of overall performance
+
 📈 Line Chart (Quantity Based on Hours)
 Displays sales quantity across different hours of the day
+
 👉 Helps identify peak business hours and optimize staffing & inventory
 🥧 Pie Chart (Category % Distribution Based on Sales)
+
 Shows sales contribution by product category
 👉 Helps understand which category drives maximum revenue
+
 🥧 Pie Chart (% Size Distribution on Orders)
 Displays order size distribution (Small, Regular, Large)
 👉 Helps analyze customer preferences
+
 📊 Bar Chart (Footfall Over Various Locations)
 Compares footfall and sales across store locations
+
 👉 Helps identify high-performing vs low-performing stores
 📊 Bar Chart (Top Products Based on Sales)
 Highlights best-selling products
+
 👉 Helps in inventory planning and promotions
 📊 Bar Chart (Orders on Weekdays)
+
 Shows daily order trends (Sunday–Saturday)
 👉 Helps identify busy vs slow days
 🎛️ Slicers (Filters)
+
 Month-wise filter
 Day-wise filter
 👉 Enables interactive analysis for better decision-making
-4. Business Impact
+
+5. Business Impact
 
 This dashboard helps improve business performance by:
 
