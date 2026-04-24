@@ -73,6 +73,8 @@ This dashboard helps improve business performance by:
 🌍 Comparing store performance → strategic expansion decisions
 📊 Understanding customer behavior → improved customer experience
 💰 Increasing revenue through data-driven insights
+
+
 5. Key Insights Derived from Dashboard
 ⏰ Peak sales occur during morning to mid-day hours (8 AM – 11 AM)
 📉 Sales gradually decline in the evening, indicating lower demand
